@@ -24,20 +24,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/youtube/channel/subscribers/UCLWqEguizn_86xogGFm5Z-w?color=FE0000&label=Sinstalab&style=for-the-badge">
 
 ### About me ###
-Norminal Grade 8 Student
-Can Hello, World! in VB, C, C#, C++, HTML, CSS, JS, PHP, Java, Python, Swift, Kotlin, ElperOXr, Arduino
-Normally code in C#, Java, Python, Swift and ElperOXr
-Crator of ElperOXr Language for AvionicsObserver
-Founder of Sinstalab include SinstalabSpace, SinstalabRobotics and SinstalabSoftware
-I'm a cool boi
-From eastern suburbs part of Thailand
-Like to sleep alot
-have rocket engine on backyard
-like to play ksp alot!!!!!!
+- Norminal Grade 8 Student
+- Can Hello, World! in VB, C, C#, C++, HTML, CSS, JS, PHP, Java, Python, Swift, Kotlin, ElperOXr, Arduino
+- Normally code in C#, Java, Python, Swift and ElperOXr
+- Crator of ElperOXr Language for AvionicsObserver
+- Founder of Sinstalab include SinstalabSpace, SinstalabRobotics and SinstalabSoftware
+- I'm a cool boi
+- From eastern suburbs part of Thailand
+- Like to sleep alot
+- Have rocket engine in the backyard
+- Like to play ksp alot!!!!!!
 
 <hr>
 
 ### My Tools ###
-I Normally use 60% keyboard on a leaked operating system
-Use Visual Studio Code and Visual Studio 2019
-Use Jetbrains IDE
+- I Normally use 60% keyboard on a leaked operating system
+Use Visual Studio Code and Visual Studio 2019 and Jetbrains's IDE
