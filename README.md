@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<hr>
 <img src="https://github-readme-stats.vercel.app/api?username=phumjaisim&show_icons=true&theme=tokyonight&hide_border=true" width="100%">
-<img src="https://img.shields.io/youtube/channel/subscribers/UCLWqEguizn_86xogGFm5Z-w?color=FE0000&label=Sinstalab&style=for-the-badge" width="100%">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCLWqEguizn_86xogGFm5Z-w?color=FE0000&label=Sinstalab&style=for-the-badge">
 
+<hr>
 
 <img src="https://img.shields.io/github/followers/phumjaisim?style=for-the-badge">
