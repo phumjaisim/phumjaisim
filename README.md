@@ -25,10 +25,7 @@ Here are some ideas to get you started:
 
 ### About me ###
 - Norminal Grade 8 Student
-- Can Hello, World! in VB, C, C#, C++, HTML, CSS, JS, PHP, Java, Python, Swift, Kotlin, ElperOXr, Arduino
 - Normally code in C#, Java, Python, Swift and ElperOXr
-- Crator of ElperOXr Language for AvionicsObserver
-- Founder of Sinstalab include SinstalabSpace, SinstalabRobotics and SinstalabSoftware
 - I'm a cool boi
 - From eastern suburbs part of Thailand
 - Like to sleep alot
