@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/youtube/channel/subscribers/UCLWqEguizn_86xogGFm5Z-w?color=FE0000&label=Sinstalab&style=for-the-badge">
 
 ### About me ###
-- Norminal Grade 8 Student
+- Norminal Grade ~~8~~ 9 Student
 - Normally code in C#, Java, Python, Swift and ElperOXr
 - I'm a cool boi
 - From eastern suburbs part of Thailand
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ### My Tools ###
 - I Normally use 60% keyboard on a leaked operating system
-Use Visual Studio Code and Visual Studio 2019 and Jetbrains's IDE
+Use Visual Studio Code and Visual Studio 2022 and Jetbrains's IDE
