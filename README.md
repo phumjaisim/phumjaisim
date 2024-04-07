@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - Embedded Hardware Hobbyist
 - Another GCODE Interested
 - tbh I cant coding in any language
-<img src="https://img.shields.io/youtube/channel/subscribers/UCLWqEguizn_86xogGFm5Z-w?color=FE0000&label=Sinstalab&style=for-the-badge">
 
 ### About me ###
 - Norminal Grade ~~8~~ ~~9~~ ~~9~~ 11 Student
