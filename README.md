@@ -21,10 +21,14 @@ Here are some ideas to get you started:
 
 <hr>
 
+- I’m currently working on everything and didnt finish anything
+- Embedded Hardware Hobbyist
+- Another GCODE Interested
+- tbh I cant coding in any language
 <img src="https://img.shields.io/youtube/channel/subscribers/UCLWqEguizn_86xogGFm5Z-w?color=FE0000&label=Sinstalab&style=for-the-badge">
 
 ### About me ###
-- Norminal Grade ~~8~~ ~~9~~ 10 Student
+- Norminal Grade ~~8~~ ~~9~~ ~~9~~ 11 Student
 - Normally code in C#, Java, Python, Swift
 - I'm a cool boi
 - From eastern suburbs part of Thailand
@@ -33,8 +37,3 @@ Here are some ideas to get you started:
 - Like to play ksp alot!!!!!!
 
 <hr>
-
-### My Tools ###
-- ~~I Normally use 60% keyboard on a leaked operating system
-Use Visual Studio Code and Visual Studio 2022 and Jetbrains's IDE~~
-- I Ditch every shit and using Apple Mac Mini
